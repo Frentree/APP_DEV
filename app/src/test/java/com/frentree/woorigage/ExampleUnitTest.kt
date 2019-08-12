@@ -1,4 +1,4 @@
-package com.example.app_dev
+package com.frentree.woorigage
 
 import org.junit.Test
 

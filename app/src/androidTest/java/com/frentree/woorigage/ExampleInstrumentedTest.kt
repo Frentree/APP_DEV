@@ -1,4 +1,4 @@
-package com.example.app_dev
+package com.frentree.woorigage
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
